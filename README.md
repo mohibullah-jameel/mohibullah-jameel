@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NCR Aloha**
 
-- 👯 I’m looking to collaborate on **Both personal and enterprise level projects**
+- 👯 I’m looking to collaborate on **MERN STACK projects**
 
 - 📫 How to reach me **Mohibullah0021@gmail.com**
 
